@@ -52,7 +52,7 @@
 	<cffunction name="exampleintent" access="public" returntype="void">
         <!--- put your logic here.  things like queries, conditional logic, etc. --->
 		<!--- you will probably have multiple intents and therefore multiple functions --->
-		<cfset say("This is the example intent.  You can also say, stop, cancel, help, repeat or start over, as those are all intents defaulted in the template.")>
+		<cfset say("This is the example intent.  You can also say, stop, cancel, help, repeat, or start over, as those are all intents defaulted in the template.")>
         <cfset reprompt("This is the reprompt.  It will be read if the user fails to respond after 8 seconds.")>
 	</cffunction>
 
