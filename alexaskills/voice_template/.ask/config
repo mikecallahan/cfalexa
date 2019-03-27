@@ -8,17 +8,12 @@
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "https://e4129b15.ngrok.io/alexaskills/voice_template/voicetemplate.cfc?method=start"
+                "uri": "https://ngrok/alexaskills/voice_template/voicetemplate.cfc?method=start"
               }
             }
           }
         }
-      },
-      "resources": {
-        "manifest": {
-          "eTag": "35053e98fefba1bc213896e0562c096b"
-        }
-      }
+       }
     }
   }
 }
