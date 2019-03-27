@@ -21,7 +21,7 @@
       "custom": {
         "endpoint": {
           "sslCertificateType": "Wildcard",
-          "uri": "https://ngrokurl/alexaskills/voice_template/voicetemplate.cfc?method=start"
+          "uri": "https://e4129b15.ngrok.io/alexaskills/voice_template/voicetemplate.cfc?method=start"
         }
       }
     },
