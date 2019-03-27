@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.019bd584-5f8c-4376-bc98-f61e4dcf6f3b",
+      "was_cloned": false,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "https://ngrokurl/alexaskills/voice_template/voicetemplate.cfc?method=start"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
