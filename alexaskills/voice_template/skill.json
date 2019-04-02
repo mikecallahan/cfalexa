@@ -8,7 +8,7 @@
             "Alexa open my voice template",
             "Alexa launch my voice template"
           ],
-          "name": "t6",
+          "name": "voicetemplate",
           "description": "Voice Template"
         }
       },
