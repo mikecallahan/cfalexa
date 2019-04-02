@@ -8,7 +8,7 @@
             "Alexa open my voice template",
             "Alexa launch my voice template"
           ],
-          "name": "voicetemplate",
+          "name": "t6",
           "description": "Voice Template"
         }
       },
@@ -21,7 +21,7 @@
       "custom": {
         "endpoint": {
           "sslCertificateType": "Wildcard",
-          "uri": "https://ngrok/alexaskills/voice_template/voicetemplate.cfc?method=start"
+          "uri": "https://ngrokurl.io/alexaskills/voice_template/voicetemplate.cfc?method=start"
         }
       }
     },
