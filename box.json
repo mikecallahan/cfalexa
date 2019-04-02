@@ -1,8 +1,0 @@
-{
-    "dependencies":{
-        "cfalexa":"github:mikecallahan/cfalexa"
-    },
-    "installPaths":{
-        "cfalexa":"cfalexa"
-    }
-}
