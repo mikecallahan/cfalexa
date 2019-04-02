@@ -8,6 +8,7 @@
 	component to inherit functions from the parent (cfalexa.cfc). 
 --->
 
+
 <cfcomponent extends="/alexaskills/cfalexa" >
 	<!--- define your intents and function names here. 
 	The AMAZON intents are required, DO NOT REMOVE. --->
