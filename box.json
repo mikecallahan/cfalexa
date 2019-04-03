@@ -13,9 +13,7 @@
         "test",
         "tests"
     ],
-    "installPaths":{
-        "cfalexa":"cfalexa"
-    },
+    "installPaths":{},
     "instructions":"",
     "keywords":[],
     "license":[
