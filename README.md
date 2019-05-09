@@ -1,4 +1,4 @@
-## "Easily Create Alexa Skills with ColdFusion" presentation [slide deck](https://www.cfalexa.com) from Into The Box 2019.
+## "Easily Create Alexa Skills with ColdFusion" presentation [slide deck](https://www.cfalexa.com/download/ITB2019_EasilyBuildAlexaSkillsWithColdfusion.pdf) from Into The Box 2019.
 
 ## [Return to www.cfalexa.com](https://www.cfalexa.com)
 
